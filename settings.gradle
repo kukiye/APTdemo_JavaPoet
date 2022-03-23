@@ -1,0 +1,4 @@
+include ':compiler'
+include ':arouter-annotations'
+include ':app'
+rootProject.name = "New_Modular_JavaPoet"
